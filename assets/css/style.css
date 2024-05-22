@@ -1,0 +1,48 @@
+body {
+    background: linear-gradient(90deg, rgba(114,125,245,0.1601890756302521) 10%, rgba(158,158,158,0.08175770308123254) 48%, rgba(240,120,244,0.0761554621848739) 84%);
+}
+
+#foto{
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#presentacion{
+    text-align: center;
+}
+
+#nombre1{
+    text-align: center;
+}
+
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#presentacionn{
+    text-align: center;
+}
+
+#formacion ul{
+    
+    list-style-type:disc;
+    padding-left: 0;
+    
+}
+
+#competencias li{
+    list-style-type: disc;
+    padding-left: 0;
+
+}
+
+#competencias img{
+    width: 100px;
+    height: 100px;
+    
+}
+
